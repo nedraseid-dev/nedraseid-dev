@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Nedra 👋
 
-<!--
-**nedraseid-dev/nedraseid-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering Student
 
-Here are some ideas to get you started:
+## 🔥 GitHub Streak
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub Streak](https://streak-stats.demolab.com?user=nedraseid-dev&theme=dark)](https://git.io/streak-stats)
+
+## 📊 GitHub Stats
+
+![Nedra's GitHub stats](https://github-readme-stats.vercel.app/api?username=nedraseid-dev&show_icons=true&theme=dark)
+
+## 💻 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nedraseid-dev&layout=compact&theme=dark)

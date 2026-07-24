@@ -15,6 +15,8 @@ I'm a Software Engineering student passionate about building real-world solution
 ## 🔥 GitHub Streak
 
 <div align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=nedraseid-dev&hide_border=true&border_radius=20&background=000000&stroke=FF0000&ring=00FF41&fire=FF0000&currStreakNum=00FF41&sideNums=FF0000&currStreakLabel=00FF41&sideLabels=FF0000&dates=FFFFFF&cache_seconds=0)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=nedraseid-dev&hide_border=true&border_radius=20&background=000000&stroke=FF0000&ring=00FF41&fire=FF0000&currStreakNum=00FF41&sideNums=FF0000&currStreakLabel=00FF41&sideLabels=FF0000&dates=FFFFFF)](https://git.io/streak-stats)
+
 </div>
 "Dreaming big, building bigger." 🚀

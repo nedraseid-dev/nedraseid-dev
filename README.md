@@ -17,7 +17,7 @@ I'm a Software Engineering student passionate about building real-world solution
 <div align="center">
   <a href="https://git.io/streak-stats">
     <img
-      src="https://streak-stats.demolab.com?user=nedraseid-dev&hide_border=true&border_radius=20&background=000000&stroke=FF0000&ring=00FF41&fire=FF0000&currStreakNum=00FF41&sideNums=FF0000&currStreakLabel=00FF41&sideLabels=FF0000&dates=FFFFFF&cache_seconds=1800"
+      src="https://github-readme-streak-stats-eight.vercel.app?user=nedraseid-dev&hide_border=true&border_radius=20&background=000000&stroke=FF0000&ring=00FF41&fire=FF0000&currStreakNum=00FF41&sideNums=FF0000&currStreakLabel=00FF41&sideLabels=FF0000&dates=FFFFFF&cache_seconds=1800"
       alt="GitHub Streak"
     />
   </a>

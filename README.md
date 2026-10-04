@@ -1,6 +1,6 @@
 # Hi, I'm Nedra Seid 👋
 
-### Future Software Engineer | Full-Stack Developer
+### Full-Stack Developer
 
 I'm a Software Engineering student passionate about building real-world solutions that solve problems and create impact.
 

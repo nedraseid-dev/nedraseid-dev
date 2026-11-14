@@ -1,18 +1,18 @@
-# Hi, I'm Nedra Seid 👋
+# Hi, I'm Nedra Seid 
 
 ### Full-Stack Developer
 
 I'm a Software Engineering student passionate about building real-world solutions that solve problems and create impact.
 
-- 🌱 Currently learning Full-Stack Development
-- 💻 Building web applications with modern technologies
-- 🚀 Interested in Software Engineering, AI, and Startups
-- 🎯 Goal: Become a world-class Software Engineer
-- 📚 Always learning and improving every day
+- Currently learning Full-Stack Development
+- Building web applications with modern technologies
+- Interested in Software Engineering, AI, and Startups
+- Goal: Become a world-class Software Engineer
+- Always learning and improving every day
 
 
 
-## 🔥 GitHub Streak
+## GitHub Streak
 
 <div align="center">
   <a href="https://git.io/streak-stats">
@@ -22,4 +22,4 @@ I'm a Software Engineering student passionate about building real-world solution
     />
   </a>
 </div>
-"Dreaming big, building bigger." 🚀
+"Dreaming big, building bigger." 
